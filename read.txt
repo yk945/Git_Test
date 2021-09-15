@@ -1,2 +1,2 @@
-hello world
-update
+ip add 
+ifconfig
